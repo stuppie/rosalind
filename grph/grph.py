@@ -1,4 +1,7 @@
-
+"""
+http://rosalind.info/problems/grph/
+Returns the adjacency list of the list of sequences. Overlap distance is 3
+"""
 
 from Bio import SeqIO
 s=[]
